@@ -223,7 +223,7 @@ me.say_hi()
 
 ## 🎭 Beyond Code
 
-<img align="left" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" alt="Learning">
+<img align="right" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" alt="Learning">
 
 When I'm not debugging or training models, you'll find me:
 
