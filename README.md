@@ -1,164 +1,236 @@
-<!-- Header with wave animation -->
+<!-- ============================================== -->
+<!--  Header — wave + typing                        -->
+<!-- ============================================== -->
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=180&section=header&text=Hey%20there!%20👋%20I'm%20Yousef&fontSize=42&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Yousef%20Radwan&fontSize=56&fontAlignY=36&animation=fadeIn&fontColor=ffffff&desc=AI%20Engineer%20%E2%80%A2%20Agentic%20Systems%20%E2%80%A2%20Applied%20Research&descSize=18&descAlign=50&descAlignY=58" width="100%"/>
 </div>
 
-<!-- Animated typing text -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=32A3DD&center=true&vCenter=true&multiline=true&width=650&height=100&lines=AI+Researcher+%7C+ML+Engineer+%7C+Entrepreneur;Building+intelligent+systems+one+model+at+a+time;Currently+%40+KAUST+%7C+Master's+in+TIE" alt="Typing SVG" />
+  <a href="https://github.com/yradwan147">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&multiline=false&width=720&height=46&lines=AI+Engineer+%E2%80%A2+Agentic+Systems+%E2%80%A2+Applied+ML+Research;Building+auditable+LLM+agents+%26+production-grade+ML+systems;MS+TIE+%40+KAUST+%E2%80%94+ML+Engineer+%40+DeSci+(Switzerland)" alt="Typing SVG" />
+  </a>
 </p>
 
-<!-- Fun animated divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- Snake eating contributions -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yradwan147/yradwan147/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yradwan147/yradwan147/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yradwan147/yradwan147/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<br/>
-
-<!-- Profile badges with some humor -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Coffee_Powered-100%25-brown?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" />
-  <img src="https://img.shields.io/badge/Debug_Mode-Always_On-red?style=for-the-badge&logo=debug&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Building_The_Future-success?style=for-the-badge" />
-  <img src="https://komarev.com/ghpvc/?username=yradwan147&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Focus-Agentic_AI_%26_Applied_ML-1f3f63?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Stack-PyTorch_%E2%80%A2_HF_%E2%80%A2_smolagents-3a5d80?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Open_to_Research_%26_Collaboration-0e2a47?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=yradwan147&label=Profile%20views&color=58A6FF&style=for-the-badge" alt="Profile views" />
 </p>
 
 <br/>
 
-<!-- About Me Section with animated rocket -->
-## 🚀 Who Am I? (Besides a human who occasionally argues with compilers)
+<!-- ============================================== -->
+<!--  About                                         -->
+<!-- ============================================== -->
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding">
+## 👋 About
 
-```python
-class Yousef:
-    def __init__(self):
-        self.location = "🇸🇦 Saudi Arabia (Currently) | 🇪🇬 Egypt (Home)"
-        self.education = "MS in Tech, Innovation & Entrepreneurship @ KAUST"
-        self.previous = "BS in Computer Engineering @ Nile Uni (GPA: 3.91/4.0)"
-        self.passions = ["AI Research", "Deep Learning", "Entrepreneurship"]
-        self.current_work = [
-            "🔬 AI Engineer @ DeSci (Switzerland)",
-            "🧠 Research: Coral Classification & Fish Species ID",
-            "🚀 Building my 2nd profitable startup"
-        ]
-        self.fun_fact = "I trained an AI to play Flappy Bird... and lost to it 😅"
-    
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something awesome together!")
+AI engineer focused on **agentic systems, applied ML research, and auditable production
+pipelines**. Currently building healthcare-triage + multi-agent workflows, fine-tuning small
+LLMs (GRPO + LoRA), and shipping research code that re-runs end-to-end. I care about the
+**reproducibility-vs-velocity** trade-off — every artefact in this profile re-executes from a
+single command.
 
-me = Yousef()
-me.say_hi()
+```yaml
+location:   "🇸🇦 KAUST, Saudi Arabia  ←→  🇪🇬 Cairo, Egypt"
+education:  "MS Tech, Innovation & Entrepreneurship — KAUST"
+working_on: ["agentic LLM workflows", "small-model fine-tuning (GRPO + LoRA)",
+             "multi-modal moderation", "applied research papers"]
+publishing: ["NeurIPS 2026 — V-axis emotion centroids",
+             "NeurIPS 2026 — Cross-Architecture Substrate",
+             "INFOCOM / GSMA telecom-LLM track (×4 papers)"]
+shipping:   "EdGame — K-12 stealth-assessment learning games"
 ```
 
 <br/>
 
-<!-- Animated divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- ============================================== -->
+<!--  Featured projects                             -->
+<!-- ============================================== -->
 
-## 💼 What I've Been Up To
+## 🎯 Featured projects
 
-<details open>
-<summary><b>🔭 Current Adventures</b></summary>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏥 [Healthcare Triage — Capstone Synthesis](https://github.com/yradwan147/cd001-p7-industry-synthesis)
+
+End-to-end breast-cancer screening triage workflow that integrates a tuned RandomForest
+classifier (P3), a smolagents-style audit layer (P6), and a vendored CNN feature hook (P4).
+**Zero malignant cases missed** in the 114-case held-out cohort at the screening threshold.
+
+`PyTorch` `sklearn` `OpenAI` `joblib`
+
+</td>
+<td width="50%" valign="top">
+
+### 🪙 [Beaver's Choice Multi-Agent System](https://github.com/yradwan147/nd900-p4-beavers-choice)
+
+Five-agent **smolagents** orchestrator-worker system for a paper-supply company: inventory +
+quoting + sales + finance workers behind a customer-facing orchestrator. Wraps 7 SQLite
+helpers as `@tool`s; produces an audited cash + inventory ledger on
+`quote_requests_sample.csv`.
+
+`smolagents` `gpt-4o-mini` `SQLAlchemy` `pandas`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 [UdaPlay — RAG + Web Fallback](https://github.com/yradwan147/nd900-p3-udaplay)
+
+ChromaDB-backed RAG agent over 15 video-game JSON records with **LLM-as-judge retrieval
+evaluation** and a **Tavily web-search fallback**. Three demo queries; the third correctly
+delegates to web search and cites a Wikipedia URL.
+
+`ChromaDB` `OpenAI` `Tavily` `pydantic`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧪 [GRPO + LoRA Fine-Tuning of Qwen2.5-3B](https://github.com/yradwan147/udacity-nd608-grpo-lora-letter-counter)
+
+Reinforcement-learning fine-tune of **Qwen2.5-3B-Instruct** on a chain-of-thought
+letter-counting task using **GRPO** with **LoRA** adapters. Demonstrates training-time
+reward shaping on a small model.
+
+`Hugging Face TRL` `LoRA` `Qwen` `transformers`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🚀 [AgentsVille Trip Planner](https://github.com/yradwan147/nd900-p1-trip-planner)
+
+CoT + **ReAct** travel-itinerary system. A Chain-of-Thought planner emits a strict
+Pydantic-validated `TravelPlan`; an Itinerary-Revision agent runs a THINK→ACT→OBSERVE loop
+over four tools with a `run_evals_tool`-before-`final_answer_tool` exit invariant.
+
+`OpenAI` `pydantic` `json-repair`
+
+</td>
+<td width="50%" valign="top">
+
+### 🛰️ [NASA Apollo &amp; Challenger RAG Chat](https://github.com/yradwan147/udacity-nd608-nasa-rag-chat)
+
+Retrieval-augmented chat over **Apollo 11, Apollo 13, and Challenger** mission documents.
+Vector store + reranker + cited answers. Gradio UI; FastAPI backend.
+
+`LangChain` `ChromaDB` `Gradio` `FastAPI`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ [Multimodal Content Moderation](https://github.com/yradwan147/udacity-nd608-multimodal-moderation)
+
+Pipeline that moderates **text, image, audio, and video** with **pydantic-ai**, a streaming
+Gradio chat UI, and a FastAPI service layer. Structured outputs end-to-end.
+
+`pydantic-ai` `FastAPI` `Gradio` `Whisper`
+
+</td>
+<td width="50%" valign="top">
+
+### 🎮 [EdGame — Stealth-Assessment Learning Games](https://github.com/yradwan147/edgame-platform)
+
+Production K-12 ed-tech platform: 5 **KAPLAY.js** games, **ECD** (Evidence-Centered Design)
+analytics, 90K+ event samples. Built for a startup; live in classrooms.
+
+`KAPLAY.js` `Node.js` `PostgreSQL` `React`
+
+</td>
+</tr>
+</table>
+
+> [!TIP]
+> Full project list — the **Udacity AI Mastery Capstone** spans 8 chapters (`cd001-p1` … `cd001-p8`); the **Agentic AI Nanodegree** spans 4 (`nd900-p1` … `nd900-p4`); research code lives under `paper1_*` … `paper4_*` and the `vaxis-paper` / `substrate-paper` NeurIPS submissions.
+
 <br/>
 
-- 🤖 **AI Engineer @ DeSci** - Building FAIR evaluation pipelines & contributing to SciWeave
-- 🐠 **Research Contributor** - Leading work on 2 NeurIPS submissions (coral & fish classification)
-- 🎓 **KAUST Master's Student** - Studying Online Learning & RL under Prof. Francesco Orabona
-- 💡 **Entrepreneur** - Created 2 profitable startups in my first 3 months at KAUST!
+<!-- ============================================== -->
+<!--  Tech stack                                    -->
+<!-- ============================================== -->
 
+## 🧰 Tech stack
+
+<details open>
+<summary><b>Languages</b></summary>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,latex,bash,sql,html" />
+</p>
+</details>
+
+<details open>
+<summary><b>ML, deep learning, generative AI</b></summary>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000" />
+  <img src="https://img.shields.io/badge/Diffusers-9146FF?style=for-the-badge&logo=huggingface&logoColor=white" />
+  <img src="https://img.shields.io/badge/LoRA%20%26%20PEFT-FF6F00?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apple%20MPS-000000?style=for-the-badge&logo=apple&logoColor=white" />
+</p>
+</details>
+
+<details open>
+<summary><b>Agentic AI &amp; LLM tooling</b></summary>
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI%20SDK-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/smolagents-FFB000?style=for-the-badge&logo=huggingface&logoColor=000" />
+  <img src="https://img.shields.io/badge/pydantic--ai-E92063?style=for-the-badge&logo=pydantic&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChromaDB-FF4F4F?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tavily-2E7CF6?style=for-the-badge&logo=duckduckgo&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
+</p>
+</details>
+
+<details open>
+<summary><b>Data &amp; backend</b></summary>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,sqlite,fastapi,flask,django,redis,docker" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Statsmodels-3F4F9D?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 </details>
 
 <details>
-<summary><b>🎯 Past Roles (Click to expand)</b></summary>
-<br/>
+<summary><b>Web, mobile, ed-tech</b></summary>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,vite,tailwind" />
+  <img src="https://img.shields.io/badge/KAPLAY.js-FF6B00?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logo=gradio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+</p>
+</details>
 
-- **ML Engineer @ OttonomiAI** (Canada) - Traffic event detection, gun detection, car crash systems
-- **Marketing Manager @ PEModule** - Built agentic lead generation system (80 leads/$0.10!)
-- **ML Engineer @ VAIS** - Crop classification models with 90%+ accuracy using hyperspectral data
-- **Founder & Chairman @ IEEE NU CIS** - Grew club from 2 to 120+ members across Egypt
-
+<details>
+<summary><b>DevOps, infra, tooling</b></summary>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,aws,gcp,vscode,jupyter" />
+  <img src="https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black" />
+</p>
 </details>
 
 <br/>
 
-<!-- Tech Stack with animated icons -->
-## 🛠️ My Toolbox
+<!-- ============================================== -->
+<!--  GitHub stats                                  -->
+<!-- ============================================== -->
 
-<p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200" alt="Coder">
-</p>
-
-### Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,cpp,html,css" />
-</p>
-
-### AI/ML & Data Science
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" />
-</p>
-
-### Web Development
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask,django" />
-</p>
-
-### DevOps & Cloud
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,aws,gcp,azure,git" />
-  <img src="https://img.shields.io/badge/Triton-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-</p>
-
-### Embedded & Robotics
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,raspberrypi,ros" />
-  <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white" />
-  <img src="https://img.shields.io/badge/TFLite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-</p>
-
-<br/>
-
-<!-- Animated divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🎯 Featured Projects (The Cool Stuff!)
+## 📊 GitHub stats
 
 <div align="center">
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🧠 **[EEG Inner Speech Classification](https://github.com/yradwan147/graduation-project)** | Achieved **46.6% accuracy** (vs 30% SOTA) on Nature's "Thinking Out Loud" dataset. Reading minds? Almost! | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) |
-| 🐠 **Coral Genus Classification** | Used agentic AI + vision encoders to achieve near-SOTA performance on coral classification | ![OpenCLIP](https://img.shields.io/badge/OpenCLIP-412991?style=flat&logo=openai&logoColor=white) ![crewAI](https://img.shields.io/badge/crewAI-000000?style=flat&logo=artificial-intelligence&logoColor=white) |
-| 🤖 **[AI Lip Reader](https://github.com/yradwan147/AILipReader)** | My first proper DL project - won a public hackathon! Can your AI read lips? Mine can. | ![DeepLearning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white) |
-| 🎮 **[Fight Flappy!](https://github.com/yradwan147/NEAT-Flappy-Bird)** | Train AI agents to play Flappy Bird, then challenge them. Spoiler: They usually win. | ![NEAT](https://img.shields.io/badge/NEAT-4B8BBE?style=flat&logo=python&logoColor=white) |
-| 📧 **[Email Command Server](https://github.com/yradwan147/EmailCommandServer)** | Automate tasks via email commands. Teen-me thought this was the coolest thing ever. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Automation](https://img.shields.io/badge/Automation-00C7B7?style=flat) |
-| 🔒 **[Cryptosteganography](https://github.com/yradwan147/Cryptosteganography-system-using-logistic-maps)** | Hide images in images using logistic maps. Because why not? | ![Encryption](https://img.shields.io/badge/Encryption-FF6B6B?style=flat) ![Math](https://img.shields.io/badge/Math-4CAF50?style=flat) |
-
-</div>
-
-<br/>
-
-<!-- Animated divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 📊 GitHub Stats (I swear I'm not obsessed with green squares)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yradwan147&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yradwan147&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="180em" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=yradwan147&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yradwan147&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
 </div>
 
 <div align="center">
@@ -166,156 +238,86 @@ me.say_hi()
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yradwan147&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=58A6FF" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yradwan147&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&area_color=58A6FF" alt="Contribution graph" />
 </div>
 
 <br/>
 
-<!-- Animated divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 📝 Publications (Yes, I Write Papers Too!)
-
-<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250" alt="Research">
-
-### Recent Highlights
-
-📄 **Stochasticity as a Solution for Overfitting** - *Frontiers in Human Neuroscience (2025)*
-> New model using stochasticity to combat overfitting in EEG classification
-
-📄 **ArEEG: Arabic Inner Speech EEG Dataset** - *Scientific Data (2025)*
-> Open-access Arabic EEG dataset for the research community
-
-📄 **Smart Attendance Using BLE** - *3ICT Conference (2023)*
-> Because manually taking attendance is so 2010
-
-📄 **Symbolic Regression Comparison** - *EUROCAST 2024*
-> Genetic programming vs ML/DL for symbolic regression
-
-🔬 **2 Papers Under Review** - *ICLR 2026 Submissions*
-> FishNet++ & ReefNet for marine biology AI applications
-
-<br clear="right"/>
-
-<!-- Animated divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🏆 Achievements & Honors
+<!-- ============================================== -->
+<!--  Snake contribution animation                  -->
+<!-- ============================================== -->
 
 <div align="center">
-
-| Achievement | Details |
-|-------------|---------|
-| 🎓 **President's Honor** | November 2022 - Nile University |
-| 🥇 **ISEF Nationals** | 2018/2019 & 2019/2020 |
-| 🏆 **Hult Prize Nationals** | 2020/2021 |
-| 🥉 **4th Place** | Vodafone 5G Hackathon 2019/2020 |
-| 🌟 **IEEE Honored Member** | 4 consecutive years (2020-2023) |
-| 🚀 **2 Profitable Startups** | Within 3 months at KAUST |
-| 📚 **Top 150** | STEM Secondary Education (90%) |
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yradwan147/yradwan147/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yradwan147/yradwan147/output/github-contribution-grid-snake.svg" />
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/yradwan147/yradwan147/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 
 <br/>
 
-<!-- Animated divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- ============================================== -->
+<!--  Publications                                  -->
+<!-- ============================================== -->
 
-## 🎭 Beyond Code
+## 📚 Publications &amp; research
 
-<img align="right" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" alt="Learning">
+<table>
+<tr><th align="left">Year</th><th align="left">Venue</th><th align="left">Title (repo / link)</th></tr>
+<tr><td>2026</td><td>NeurIPS (under review)</td><td><a href="https://github.com/yradwan147/vaxis-paper">Nine Emotion Centroids — A Label-Free Valence Axis Across Four Modalities</a></td></tr>
+<tr><td>2026</td><td>NeurIPS (under review)</td><td><a href="https://github.com/yradwan147/substrate-paper">The Cross-Architecture Substrate</a></td></tr>
+<tr><td>2026</td><td>Telecom-LLM track</td><td><a href="https://github.com/yradwan147/paper1_d1_path_lora_rag">Three Levers to Make LLMs Configure 5G Networks (catalog grounding + LoRA + RAG)</a></td></tr>
+<tr><td>2026</td><td>INFOCOM track</td><td><a href="https://github.com/yradwan147/paper2_d2_lyapunov">Geometric V-Metric Instrumentation on Telecom Control Substrates</a></td></tr>
+<tr><td>2026</td><td>Wireless control</td><td><a href="https://github.com/yradwan147/paper3_d3_whisper">Rate-Distortion Characterization of a 6-Bit VQ Codec (LLM + linear baselines)</a></td></tr>
+<tr><td>2026</td><td>GSMA benchmarking</td><td><a href="https://github.com/yradwan147/paper4_d4_max_tokens">max_tokens × Prompt-Length Confound in Telecom-MCQ LLM Benchmarking</a></td></tr>
+<tr><td>2025</td><td>Frontiers in Human Neuroscience</td><td>Stochasticity as a Solution for Overfitting (EEG inner-speech classification)</td></tr>
+<tr><td>2025</td><td>Scientific Data</td><td>ArEEG — Arabic Inner Speech EEG Dataset</td></tr>
+<tr><td>2024</td><td>EUROCAST</td><td>Symbolic Regression — Genetic Programming vs ML/DL</td></tr>
+<tr><td>2023</td><td>3ICT Conference</td><td>Smart Attendance Using BLE</td></tr>
+</table>
 
-When I'm not debugging or training models, you'll find me:
+<br/>
 
-- 🏀 **Playing Basketball** - Shooting hoops and debugging life
-- ♟️ **Playing Chess** - Strategic thinking on 64 squares
-- 🎮 **Co-op Gaming** - Teamwork makes the dream work
-- 📚 **Reading Research Papers** - Staying at the cutting edge
-- 🎤 **Mentoring Students** - Taught 20+ ML/DL training sessions
-- 🎯 **Building Startups** - Because why have one job when you can have three?
+<!-- ============================================== -->
+<!--  Trophies                                      -->
+<!-- ============================================== -->
 
-<br clear="left"/>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yradwan147&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" />
+</div>
 
-<!-- Animated divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br/>
 
-## 🤝 Let's Connect!
+<!-- ============================================== -->
+<!--  Connect                                       -->
+<!-- ============================================== -->
+
+## 🤝 Connect
 
 <p align="center">
-  I'm always excited to collaborate on AI projects, discuss research, or just chat about tech!
+  <a href="https://github.com/yradwan147">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:yousef.radwan@kaust.edu.sa">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/yousef-radwan-2b5b1019b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://scholar.google.com/citations?hl=en">
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" />
+  </a>
 </p>
 
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yradwan147)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yradwan147)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/yousefradwanlmao)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yradwan147.yr@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://docs.google.com/presentation/d/1hk_NxkiwJ4J0QHz27-KX4M2zfHMbX63m/edit?slide=id.p1#slide=id.p1)
-
-</div>
-
 <br/>
 
-<!-- Random dev quote -->
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
-
-<br/>
-
-<!-- Fun activity -->
-<details>
-<summary><b>🎮 Fun Fact: Wanna play a game?</b></summary>
-<br/>
-
-```
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║  Q: What's a programmer's favorite hangout place?   ║
-║                                                      ║
-║  A: Foo Bar!                                         ║
-║                                                      ║
-║  Q: Why do programmers prefer dark mode?            ║
-║                                                      ║
-║  A: Because light attracts bugs! 🐛                  ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
-```
-
-</details>
-
-<br/>
-
-<!-- Random activity graph -->
-<div align="center">
-  <details>
-  <summary><b>🎨 More Stats (Because why not?)</b></summary>
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=yradwan147&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
-  </details>
-</div>
-
-<br/>
-
-<!-- Footer wave -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer" width="100%"/>
-</div>
+<!-- ============================================== -->
+<!--  Footer wave                                   -->
+<!-- ============================================== -->
 
 <div align="center">
-  
-### 💡 "The best way to predict the future is to invent it." - Alan Kay
-  
-⭐️ **If you like what you see, drop a star on my repos!** ⭐️
-
-<sub>Made with ❤️ and way too much caffeine ☕</sub>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer" width="100%"/>
 </div>
 
-<!-- Easter egg -->
-<!-- 
-  Congrats! You found the easter egg! 🥚
-  Here's a secret: I once spent 6 hours debugging only to realize I forgot to save the file.
-  We've all been there, right? ...Right? 😅
--->
+<p align="center"><sub><i>Reproducibility is a feature, not a constraint.</i></sub></p>
